@@ -28,7 +28,7 @@
 
     <h3>UC San Diego, Tutor</h3>
     <ul>
-      {% for post in site.teaching %}
+      {% for post in site.teaching reversed %}
         {% if post.institution == "UC San Diego" %}
           <li>{{ post.title }} - {{ post.semester }}</li>
         {% endif %}
@@ -37,7 +37,7 @@
     
     <h3>UW Madison, Teaching Assistant</h3>
     <ul>
-      {% for post in site.teaching %}
+      {% for post in site.teaching reversed %}
         {% if post.institution == "UW Madison" %}
           <li>{{ post.title }} - {{ post.semester }}</li>
         {% endif %}
