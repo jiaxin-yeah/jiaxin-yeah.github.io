@@ -4,8 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-{% include base_path %}
-<h3>UC San Diego, Tutor</h3>
+### UC San Diego, Tutor
+<!-- {% include base_path %}
+<!-- <h3>UC San Diego, Tutor</h3>
 <ul>
   <li>DSC 20 Programming and Basic Data Structures for Data Science, Spring 2022</li>
   <li>DSC 10 Principles of Data Science, Fall 2022</li>
@@ -19,7 +20,7 @@ author_profile: true
 <ul>
   <li>STAT 240 Data Science Modeling, Fall 2024</li>
   <li>STAT 240 Data Science Modeling, Spring 2025</li>
-</ul>
+</ul> -->
 
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
