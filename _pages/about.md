@@ -15,3 +15,6 @@ I had the privilege of working with Professor Yuhua Zhu on a temporal difference
 ## Education
 UW Madison, Ph.D. in Statistics, 2024-<br>
 UC San Diego, B.S. in Applied Math and Computer Science, 2020-2024
+
+## News & Awards
+- Jan 19, 2024: 2023-2024 UC San Diego Physical Sciences Dean’s Undergraduate Award for Excellence
