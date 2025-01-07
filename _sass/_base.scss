@@ -7,6 +7,10 @@ html {
   min-height: 100%;
 }
 
+a[href*="sitemap"] {
+  display: none !important;
+}
+
 body {
   margin: 0;
   padding: $masthead-height 0 0;
