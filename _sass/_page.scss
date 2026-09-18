@@ -107,6 +107,12 @@
   }
 }
 
+.page__content.about-content {
+  @include breakpoint($large) {
+    padding-right: 3rem;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
