@@ -19,5 +19,5 @@ UW Madison, Ph.D. in Statistics, 2024-2029<br>
 UC San Diego, B.S. in Applied Math and Computer Science, 2020-2024
 
 ## News & Awards
-- Sep 17, 2026: Our paper *Null importance: Disentangling relevance for interpretable machine learning* is now on [arXiv](https://arxiv.org/abs/2609.19511)! 🎉
+- Sep 16, 2026: Our paper *Null importance: Disentangling relevance for interpretable machine learning* is now on [arXiv](https://arxiv.org/abs/2609.19511)! 🎉
 - Jan 19, 2024: 2023-2024 UC San Diego Physical Sciences Dean’s Undergraduate Award for Excellence
